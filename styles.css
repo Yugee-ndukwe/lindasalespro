@@ -1,0 +1,26 @@
+header{
+    background-image: url(images/313.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+.btn1{
+    background-color: black;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+}
+section{
+    /* background-color: lightyellow; */
+}
+/* .realtor{
+    width: 50%;
+}
+.realtor img{
+    width: 80%;
+} */
+
+main{
+    background-color: lightyellow;
+}
