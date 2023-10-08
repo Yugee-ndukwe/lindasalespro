@@ -68,3 +68,15 @@ main{
 section{
     background-color: lightgray;
 }
+aside{
+    background-color: lightyellow;
+}
+.star{
+    color: gold;
+}
+.shake{
+    width: 100%;
+}
+.shake img{
+    width: 100%;
+}
