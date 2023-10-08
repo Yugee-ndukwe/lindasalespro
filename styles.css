@@ -1,9 +1,26 @@
+body{
+    font-family:\Users\GRACE OF GOD\Desktop\fonts\Poppins-Black;
+    font-size: 500;
+}
 header{
     background-image: url(images/313.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
     width: 100%;
+}
+.header-text{
+    color: orange;
+}
+header .card{
+    position: relative;
+    top: 330px;
+    border-bottom-left-radius: 25px;
+    border-left: 7px solid white;
+    border-top-left-radius: 30px;
+    background-color: azure;
+
+
 }
 .btn1{
     background-color: black;
@@ -24,4 +41,30 @@ section{
 
 main{
     background-color: lightyellow;
+}
+.discover-img{
+    width: 100%;
+}
+.discover-img img{
+    width: 100%;
+}
+/* .illustration-icon{
+    width: 45%;
+    /* border: 2px solid black;
+    border-radius: 40px; *
+}
+.illustration-icon img{
+    width: 35%;
+} */
+.message-icon{
+    width: 20%;
+    /* border: solid 5px rgb(221, 246, 253);
+    border-radius: 30px;
+    background-color: rgb(221, 246, 253); */
+}
+.message-icon img{
+    width: 70%;
+}
+section{
+    background-color: lightgray;
 }
