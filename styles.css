@@ -63,11 +63,21 @@ header{
     margin-top: 130px;
 
 }
+@media (max-width:765px) {
+    .head-line{
+        margin-top: 80px;
+    }
+    .container-fluid1{
+        margin: 70px;
+        position: absolute;
+        top: 470px;
+    }
+}
 .headline-text{
     font-weight: 100;
     font-size: 16px;
 }
-.lead-image{
+/* .lead-image{
     width: 40%;
     
 
@@ -76,7 +86,7 @@ header{
     width: 40%;
     
     
-}
+} */
 /* .head-message{
     width: 50%;
     text-align: center;
