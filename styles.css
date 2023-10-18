@@ -53,12 +53,12 @@ header{
 }
 @media (max-width:765px) {
     .head-line{
-        margin-top: 80px;
+        margin-top: 60px;
     }
     .container-fluid1{
-        margin: 70px;
+        margin: 50px;
         position: absolute;
-        top: 470px;
+        top: 480px;
     }
 }
 .headline-text{
