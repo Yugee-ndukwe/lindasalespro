@@ -19,7 +19,9 @@ header{
     font-size: 25px;
     font-weight: 400;
 }
-
+.navbar-brand:hover{
+    color: orange;
+}
 
 @media (max-width:768px){
     header{
@@ -56,9 +58,9 @@ header{
         margin-top: 60px;
     }
     .container-fluid1{
-        margin: 50px;
+        margin: 30px;
         position: absolute;
-        top: 480px;
+        top: 450px;
     }
 }
 .headline-text{
@@ -101,8 +103,8 @@ main{
 
  .custom-bg{
     background-color: white;
-    /* border: solid 1px lightgrey;
-    border-radius: 2px; */
+    /* border: solid 1px lightgrey;  */
+    border-radius: 5px; 
     box-shadow: 2px 3px lightgray;
       
 }
@@ -137,6 +139,9 @@ section{
 }
 aside{
     background-color: lightyellow;
+}
+#carouselExemple{
+    border-radius: 2px;
 }
 .star{
     color: gold;
